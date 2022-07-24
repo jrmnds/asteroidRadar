@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_help_circle.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-v24/ic_status_normal.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-v24/ic_status_potentially_hazardous.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable-v24/placeholder_picture_of_day.xml" value="0.2085" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15416666666666667" />
+        <entry key="app/src/main/res/menu/main_overflow_menu.xml" value="0.2515625" />
       </map>
     </option>
   </component>
