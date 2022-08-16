@@ -5,8 +5,8 @@ import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.jrmnds.asteroidradar.domain.AsteroidsList
-import com.jrmnds.asteroidradar.domain.PictureOfDay
+import com.jrmnds.asteroidradar.domain.model.AsteroidsList
+import com.jrmnds.asteroidradar.domain.model.PictureOfDay
 
 @Dao
 interface NasaDao {

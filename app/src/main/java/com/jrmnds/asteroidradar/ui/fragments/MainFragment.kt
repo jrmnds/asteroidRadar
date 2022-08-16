@@ -7,7 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import com.jrmnds.asteroidradar.R
 import com.jrmnds.asteroidradar.databinding.FragmentMainBinding
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainFragment : Fragment() {
 
     private lateinit var binding: FragmentMainBinding

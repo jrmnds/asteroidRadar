@@ -1,4 +1,4 @@
-package com.jrmnds.asteroidradar.utils
+package com.jrmnds.asteroidradar.common
 
 object Constants {
 

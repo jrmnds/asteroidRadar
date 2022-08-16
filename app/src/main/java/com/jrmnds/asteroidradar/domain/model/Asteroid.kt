@@ -1,4 +1,4 @@
-package com.jrmnds.asteroidradar.domain
+package com.jrmnds.asteroidradar.domain.model
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize
